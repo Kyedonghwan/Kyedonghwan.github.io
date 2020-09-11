@@ -1,8 +1,6 @@
 
 # Kyedonghwan.github.io
 
-
-
 ### Computer Engineereeing student
 - Computer Engeneering student in Hanyang University 2020
 
