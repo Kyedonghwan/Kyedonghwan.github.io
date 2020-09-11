@@ -1,6 +1,5 @@
 <div align=center>
-Kyedonghwan.github.io
-=====================
+#Kyedonghwan.github.io
 
 </div>
 
@@ -10,7 +9,7 @@ Kyedonghwan.github.io
 
 ### Interest
 - Google Cloud Platform
-- Operation Research
+- FE Web Development
 - Mentoring, Writing
 
 <div align=center>
